@@ -17,3 +17,4 @@ This lets you connect any patched 2016L client to this mini server.
 
 [PLEASE NOTE THAT THIS IS COMPLETELY FREE,THANKS TO ALAINSXISADUCK FOR HELPING ON THE FIRST VERSION OF BOTFC.]
 
+/ Keep in mind that you can do 2016L to 2017E - AlainsX
