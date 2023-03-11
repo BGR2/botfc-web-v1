@@ -11,6 +11,7 @@ This lets you connect any patched 2016L client to this mini server.
 
 - clientsettings.(domain)
 - assetgame.(domain)
+- api.(domain)
 
 4 - Done,you now have a completely working webservice!
 
